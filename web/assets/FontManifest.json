@@ -1,0 +1,34 @@
+[
+    {
+        "family": "MaterialIcons",
+        "fonts": [
+            {
+                "asset": "https://fonts.gstatic.com/s/materialicons/v42/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2"
+            }
+        ]
+    },
+    {
+        "family": "hiraminpro-w3",
+        "fonts": [
+            {
+                "asset": "hiraminpro-w3.otf"
+            }
+        ]
+    },
+    {
+        "family": "Montserrat-Regular",
+        "fonts": [
+            {
+                "asset": "Montserrat-Regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "Montserrat-Bold",
+        "fonts": [
+            {
+                "asset": "Montserrat-Bold.ttf"
+            }
+        ]
+    }
+]
